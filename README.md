@@ -73,7 +73,7 @@ Understand the role of VPNs (Virtual Private Networks) in enhancing online priva
 ---
 ## Benefits and Limitations:
 
-###Benefits of VPNs
+### Benefits of VPNs
 1. Privacy Protection
 - Hides your real IP address from websites and ISPs.
 - Prevents tracking of your online activities.
@@ -87,7 +87,8 @@ Understand the role of VPNs (Virtual Private Networks) in enhancing online priva
 - Reduces risk of man-in-the-middle attacks and eavesdropping.
 6. Safe File Sharing
 - Makes it safer to share large files over long distances or insecure networks.
-###Limitations of VPNs
+
+### Limitations of VPNs
 1. Reduced Internet Speed
 - Encryption and routing through remote servers can slow down browsing and downloads.
 2. Cost
