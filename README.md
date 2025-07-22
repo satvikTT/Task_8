@@ -1,4 +1,4 @@
-# Working and Understanding VPN - Virtual Private Network (Task_8)
+# Working and Understanding VPN - Virtual Private Network
 
 ---
 ## Objective
